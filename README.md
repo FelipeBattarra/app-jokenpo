@@ -66,3 +66,7 @@ lib/
 4. **Executar o Aplicativo**: Conecte um dispositivo físico ou use um emulador e execute o aplicativo:
     flutter run
 
+**Imagem do  Modelo do APP:** ![Captura de tela 2025-03-30 174119](https://github.com/user-attachments/assets/7139d4ba-b462-4f25-84f5-77c8278c9c98)
+
+**Vídeo do carregamento e funcionalidade do APP:** https://github.com/user-attachments/assets/363880ef-38e0-451f-b0bc-1de701cf947c
+
